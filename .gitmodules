@@ -1,0 +1,6 @@
+[submodule "stylepak"]
+	path = stylepak
+	url = ./conf/stylepak
+[submodule "conf/stylepak"]
+	path = conf/stylepak
+	url = git@github.com:refi64/stylepak
